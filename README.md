@@ -43,7 +43,7 @@ Cuando llego el 2019 solo estaba concentrado para aquel examen, obtuve un puntaj
 
 Se que la historia de mi vida apenas a comenzado y espero que lo que el futuro me depare sea prometedor y todas las personas a las que amo estén conmigo para vivirlo.
  </p>
- <p> Fuente: Proyecto de vida del curso de nivelación </p>
+ <p> Fuente: Proyecto de vida del curso de nivelación. </p>
 </font>
 </body>
 
