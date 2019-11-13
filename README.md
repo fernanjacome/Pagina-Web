@@ -18,7 +18,7 @@
     </body>
   <body>
     <font size="5px" face="Times New Roman">
-         <p>Los primeros años de mi vida fui educado por mis padres, durante una cierta edad recuerdo haber convivido solo con ellos, mis padres se separaron cuando cumplí 6 años, por cuestiones de trabajo mi madre fue a vivir a Guayaquil y mi padre a Babahoyo, a partir de ahí viví y fui educado por mis abuelos y familiares en Vinces, mis recuerdos de la época en la que vivía en Vinces, los guardo con mucha estimación, pues en mi consideración fueron los mejores años de mi vida, recuerdo que por la gran cantidad de gente que vivía en la casa, y por la escasez de trabajo en esa ciudad no nos abastecíamos  económicamente, pero puedo asegurar que nunca me falto nada. Es más, puedo decir que había algo que me sobraba, y era felicidad. Me encantaba pasar las tardes con mis primos, ya sea estudiando, jugando o simplemente pasando el rato.
+      <p>     Los primeros años de mi vida fui educado por mis padres, durante una cierta edad recuerdo haber convivido solo con ellos, mis padres se separaron cuando cumplí 6 años, por cuestiones de trabajo mi madre fue a vivir a Guayaquil y mi padre a Babahoyo, a partir de ahí viví y fui educado por mis abuelos y familiares en Vinces, mis recuerdos de la época en la que vivía en Vinces, los guardo con mucha estimación, pues en mi consideración fueron los mejores años de mi vida, recuerdo que por la gran cantidad de gente que vivía en la casa, y por la escasez de trabajo en esa ciudad no nos abastecíamos  económicamente, pero puedo asegurar que nunca me falto nada. Es más, puedo decir que había algo que me sobraba, y era felicidad. Me encantaba pasar las tardes con mis primos, ya sea estudiando, jugando o simplemente pasando el rato.
 
      En ese entonces realice mis estudios desde primer hasta tercer grado en la Escuela de Educación Básica Dr. Francisco Martínez Aguirre, una escuela la cual era supervisada por mi abuela, la Lcda. Germania Aguirre, la cual fue directora de ese plante por un largo tiempo hasta su jubilación. Durante ese tiempo (2006-2008) mi rendimiento académico era bastante bueno, pues la mayoría de mis tíos que vivían junto a mi eran maestros dispuestos a enseñarnos a mis primos y a mí, en el año 2007 se unió otro integrante a mi familia, mi única hermana Samantha Dinora Jacome Veliz. En el año 2009 fui a otra escuela a seguir con mis estudios, fue en la Unidad Educativa Básica Dr. Lorenzo Rufo Peña, una escuela solo para hombres, muy estricta. Según mi criterio me forme como un hombre de cultura gracias a esa escuela, fueron años duros dentro de tal, pero los agradezco. Mi abuelo el cual era Rector del Colegio Vinces, siempre estuvo al tanto de mis calificaciones y mi conocimiento, cada día me redactaba una lectura sea del periódico o de un libro, le doy gracias a el por el conocimiento sobre cultura general que me ha ofrecido.
 
@@ -41,7 +41,8 @@ En el 2018 deje de jugar y me centré mas en mis estudios nuevamente, durante es
 
 Cuando llego el 2019 solo estaba concentrado para aquel examen, obtuve un puntaje prometedor y fue suficiente para la carrera que quería, logre graduarme con honores en la Unidad Educativa Particular Padre Marcos Benetazzo, obtuve un cupo para la carrera de Ingeniera en software, y actualmente estoy cursando el curso de nivelación en la Universidad Estatal de Guayaquil.
 
-Se que la historia de mi vida apenas a comenzado y espero que lo que el futuro me depare sea prometedor y todas las personas a las que amo estén conmigo para vivirlo.</p>
+Se que la historia de mi vida apenas a comenzado y espero que lo que el futuro me depare sea prometedor y todas las personas a las que amo estén conmigo para vivirlo.
+ </p>
 </font>
 </body>
 
