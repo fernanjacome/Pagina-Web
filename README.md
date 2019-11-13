@@ -6,7 +6,7 @@
     <font face="Arial Black" >
       <h1>Datos personales</h1>
     </font>
-    <font size="5px" face="Arial Black">
+    <font size="5px" face="Times New Roman">
       <p>Nombre: Fernando Daniel Jácome Véliz </p>
       <p>Edad: 17 años</p>
       <p>Fecha de nacimiento: 20 de mayo del 2002</p>
